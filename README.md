@@ -11,10 +11,6 @@
 - Tableau
 - Python
 
-## 📂 Projects
-- Sales Dashboard (Power BI)
-- E-commerce Analysis (SQL)
-- Excel KPI Dashboard
 
 ## 📫 Contact
 - Email: gourabrya2810@gmail.com
