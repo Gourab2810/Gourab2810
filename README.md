@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I'm Gourab 👋
+
+🎓 BCA Graduate | Aspiring Data Analyst  
+📊 Skilled in Excel, Power BI, SQL  
+📍 Based in Pune, India  
+
+## 🔧 Skills
+- Excel (Pivot Table, XLOOKUP)
+- Power BI (Dashboard, DAX)
+- MySQL
+- Tableau
+- Python
+
+## 📂 Projects
+- Sales Dashboard (Power BI)
+- E-commerce Analysis (SQL)
+- Excel KPI Dashboard
+
+## 📫 Contact
+- Email: gourabrya2810@gmail.com
+- LinkedIn: https://www.linkedin.com/in/gourab-narayan-deo-163896215/
 
 <!--
 **Gourab2810/Gourab2810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
