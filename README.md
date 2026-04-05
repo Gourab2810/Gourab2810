@@ -1,6 +1,6 @@
 # Hi, I'm Gourab 👋
 
-🎓 BCA Graduate | Aspiring Data Analyst  
+🎓 Aspiring Data Analyst  
 📊 Skilled in Excel, Power BI, SQL  
 📍 Based in Pune, India  
 
