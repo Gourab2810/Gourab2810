@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 **BCA Graduate** from Netaji Subhas University, Jamshedpur (CGPA: 8.34)
+🎓 **BCA Graduate** from Netaji Subhas University, Jamshedpur 
    — passionate about transforming raw, messy data into meaningful insights
    and visually compelling dashboards
 
